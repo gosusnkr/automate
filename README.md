@@ -15,6 +15,7 @@ An automation tool that downloads CHAOS project discovery data every hour compar
   + [nuclei](https://github.com/projectdiscovery/nuclei)
   + [chaospy](https://github.com/PhotonBolt/chaospy)
   + [notify](https://github.com/projectdiscovery/notify)
+  + [naabu](https://github.com/projectdiscovery/naabu)
   
   Make sure these tools are downloaded and binaries are copied in the /usr/bin folder.
   
