@@ -1,0 +1,6 @@
+slack:
+  - id: "slack"
+    slack_channel: "passwd"
+    slack_username: "gosusnkr"
+    slack_format: "{{data}}"
+    slack_webhook_url: "https://hooks.slack.com/services/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"
