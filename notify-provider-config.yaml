@@ -24,12 +24,12 @@
 #    discord_format: "{{data}}"
 #    discord_webhook_url: "https://discord.com/api/webhooks/XXXXXXXX"
 #
-#telegram:
-#  - id: "tel"
-#    telegram_api_key: "XXXXXXXXXXXX"
-#    telegram_chat_id: "XXXXXXXX"
-#    telegram_format: "{{data}}"
-#    telegram_parsemode: "Markdown" # None/Markdown/MarkdownV2/HTML (https://core.telegram.org/bots/api#formatting-options)
+telegram:
+  - id: "tel"
+    telegram_api_key: "7077087988:AAF5N91N6j7b-YwHbJ6ucx6_iceF_SNEvq0"
+    telegram_chat_id: "899825507"
+    telegram_format: "{{data}}"
+    telegram_parsemode: "Markdown" # None/Markdown/MarkdownV2/HTML (https://core.telegram.org/bots/api#formatting-options)
 #
 #pushover:
 #  - id: "push"
